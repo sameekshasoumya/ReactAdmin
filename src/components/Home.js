@@ -5,7 +5,6 @@ import search from './search.png';
 import user from './user.png';
 import notifs from './notifications.png';
 import info from './info.png';
-import page1 from './DonorList';
 import './Home.css';
 
 const Home = () => {
